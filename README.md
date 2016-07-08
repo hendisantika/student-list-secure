@@ -1,7 +1,8 @@
 # StudentList
-Simple CRUD application made with Spring Boot
+Simple CRUD application made with Spring Boot and secured with Spring Security
 
 - Spring Boot
+- Spring Security
 - Thymeleaf
 - H2 database
 - Bootstrap
