@@ -1,4 +1,4 @@
-package fi.haagahelia.course.model;
+package com.hendisantika.student.model;
 
 import java.util.Date;
 

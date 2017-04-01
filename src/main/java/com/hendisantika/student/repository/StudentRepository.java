@@ -1,7 +1,7 @@
-package fi.haagahelia.course.repository;
+package com.hendisantika.student.repository;
 
 import java.util.List;
-import fi.haagahelia.course.model.Student;
+import com.hendisantika.student.model.Student;
 
 import org.springframework.data.repository.CrudRepository;
 

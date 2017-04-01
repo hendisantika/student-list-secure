@@ -1,4 +1,4 @@
-package fi.haagahelia.course;
+package com.hendisantika.student;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
@@ -36,5 +36,6 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter {
     @Autowired
     public void configureGlobal(AuthenticationManagerBuilder auth) throws Exception {  
     	auth.inMemoryAuthentication().withUser("user").password("user").roles("USER");
+//				.and().withUser("admin").password("admin");
     }
 }
