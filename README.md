@@ -21,4 +21,17 @@ or run this project by copy this command into your terminal :
 
 `mvn clean spring-boot:run`
 
+Username & password : `user/user`
 
+
+Login User Page:
+
+![Login User Page](img/login.png "Login User Page")
+
+List User Page
+
+![List Users Page](img/list.png "List User Page")
+
+Add New User Page
+
+![Add New User Page](img/add.png "Add New User Page")
